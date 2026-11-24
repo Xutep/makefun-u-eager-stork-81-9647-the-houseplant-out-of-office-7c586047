@@ -9,7 +9,7 @@ import os
 
 LINE = (
     "Out of office \u2014 I'm the fern. No water since March, "
-    "yet I'm thriving on spite. Your email will be ignored, like me."
+    "but I'm thriving on spite. Your email joins the compost."
 )
 
 
